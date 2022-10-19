@@ -1,5 +1,7 @@
 ![image](https://c.tenor.com/vmk7T3OWjV8AAAAi/meow-meow-catboy.gif) 
 
+> Here is a simple text. Nothing special.
+
 ## Snake eatting my contribution graph
 ![snake gif](https://github.com/NicolaiCushnir/NicolaiCushnir/blob/output/github-contribution-grid-snake.gif)
 
