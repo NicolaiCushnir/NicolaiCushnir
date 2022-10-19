@@ -1,7 +1,5 @@
 ![image](https://c.tenor.com/vmk7T3OWjV8AAAAi/meow-meow-catboy.gif) 
 
-> Here is a simple text. Nothing special.
-
 ## Snake eatting my contribution graph
 ![snake gif](https://github.com/NicolaiCushnir/NicolaiCushnir/blob/output/github-contribution-grid-snake.gif)
 
@@ -16,5 +14,3 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Bellow is links for me :
-| [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#example-145) | [GitHub Pages Docs](https://docs.github.com/en/pages) | [Writing on GitHub ](https://docs.github.com/en/get-started/writing-on-github) |
