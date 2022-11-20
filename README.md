@@ -17,6 +17,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Others
-https://aleen42.github.io/badges/src/stackoverflow.svg
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi
+![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)
+
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi)
+
 https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
