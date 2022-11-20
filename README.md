@@ -1,4 +1,4 @@
-![image](https://c.tenor.com/vmk7T3OWjV8AAAAi/meow-meow-catboy.gif) ![NicolaiCushnir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaiCushnir&theme=default&show_icons=true&hide_border=false&layout=compact)
+![image](https://c.tenor.com/vmk7T3OWjV8AAAAi/meow-meow-catboy.gif)
 
 ## Snake eatting my contribution graph
 ![snake gif](https://github.com/NicolaiCushnir/NicolaiCushnir/blob/output/github-contribution-grid-snake.gif)
