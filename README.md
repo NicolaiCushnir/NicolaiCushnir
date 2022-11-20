@@ -1,10 +1,7 @@
-![image](https://c.tenor.com/vmk7T3OWjV8AAAAi/meow-meow-catboy.gif) 
+![image](https://c.tenor.com/vmk7T3OWjV8AAAAi/meow-meow-catboy.gif) ![NicolaiCushnir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaiCushnir&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ## Snake eatting my contribution graph
 ![snake gif](https://github.com/NicolaiCushnir/NicolaiCushnir/blob/output/github-contribution-grid-snake.gif)
-
-## ?
-![NicolaiCushnir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaiCushnir&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ## Technologies which i know and use it.
 ![Sublime Text 3](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
