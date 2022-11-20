@@ -4,7 +4,7 @@
 ![snake gif](https://github.com/NicolaiCushnir/NicolaiCushnir/blob/output/github-contribution-grid-snake.gif)
 
 ## ?
-https://github-readme-stats.vercel.app/api/top-langs/?NicolaiCushnir={NicolaiCushnir}&theme=blue-green
+![NicolaiCushnir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaiCushnir&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ## Technologies which i know and use it.
 ![Sublime Text 3](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
